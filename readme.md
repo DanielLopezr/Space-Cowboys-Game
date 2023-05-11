@@ -1,4 +1,4 @@
-# Space Cowboys Duels Game (Español): pygame version: 1.9.6
+# Space Cowboys Duels Game (Español): pygame version: 1.9.6 runs correctly in ubuntu 20.04
 
 El juego cuenta con tres niveles, cada uno con su propio enemigo.
 El objetivo del juego es derrotar a los tres alienígenas para ganar.
@@ -25,7 +25,7 @@ Comentarios en inglés y en español se hicieron en el codigo, a veces por descu
 Gracias por la oportunidad, espero que el juego les guste.
 Autor: Daniel Felipe López Rubiano, Bogota DC, Colombia.
 
-# Space Cowboys Duels Game (English): pygame version: 1.9.6
+# Space Cowboys Duels Game (English): pygame version: 1.9.6 runs correctly in ubuntu 20.04
 
 The game has three levels, each with its own enemy.
 The object of the game is to defeat all three aliens to win.
